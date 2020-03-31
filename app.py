@@ -11,6 +11,8 @@ import newspaper
 from newspaper import Article
 import urllib
 import nltk
+import zipfile 
+from zipfile import ZipFile
 nltk.download('punkt')
 
 #Loading Flask and assigning the model variable
