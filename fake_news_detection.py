@@ -10,7 +10,7 @@ import pickle
 
 
 #Importing the cleaned file containing the text and label
-news = pd.read_csv('fake_or_real_news.csv')
+news = pd.read_csv('news.csv')
 X = news['text']
 y = news['label']
 
