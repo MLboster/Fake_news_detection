@@ -1,0 +1,14 @@
+To  excutue code you have to download all the file from the github and then 
+first run the first file :-
+1> fake_news_detection   in command prompt by writing  python  fake_news_detection 
+2> app- then you have to excute this app file  by writing on command prompt  python app.py
+:After that you will get the  a link like https:/27.0.0.5000 you have to copy it and paste to your browser 
+and make sure you have active internet connection.
+
+you can also  directly check my model :
+by writing this link on your web browser- https://fakenewsdecetionmodel.herokuapp.com/
+
+To check why i have used Naive Bayes multionimal classfier for deployment you can refer one folder name model in the github 
+there was two file :
+1> for making the model 
+2> amd comparing the model 
